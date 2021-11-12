@@ -1,12 +1,6 @@
-// Frank Poth 12/24/2017
+// Prajwal
 
-/* This example has a lot packed into it. It has a scrolling tile based background.
-The rightmost column is randomly generated when scrolling. There is animation.
-There is collision detection between all moving objects and the world as well as
-the player and the meteors and tarpits. There is an effect that turns the screen
-red when a meteor spawns using image data. I implement object pooling to avoid using
-"new" to create new objects. Some of this stuff I've covered in old tutorials, and
-some stuff I have not covered. */
+/* This example has a lot packed into it. It has a scrolling tile based background */
 
 (function() { "use strict";
 
